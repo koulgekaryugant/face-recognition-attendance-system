@@ -1,6 +1,4 @@
-Demo video about of the project
-
-
+Demo video about of the project:
 
 Uploading Demo.mp4…
 
