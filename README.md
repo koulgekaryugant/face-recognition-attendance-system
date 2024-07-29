@@ -1,8 +1,4 @@
-Demo video about of the project:
-
-Uploading Demo.mp4…
-
-
+Demo video about of the project: https://github.com/user-attachments/assets/03256bef-54ff-4f1a-8889-b27078bff6bc
 
 Installing Requirements
 
